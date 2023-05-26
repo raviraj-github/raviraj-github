@@ -27,7 +27,7 @@ I'm Ravi Raj, a seasoned Java Application Architect and Microservice Professiona
 I am always eager to learn and explore new technologies to stay up-to-date with the latest trends in the industry. My passion lies in delivering high-quality software solutions that meet business requirements and exceed expectations.
 
 ## 🤝 Open to Collaboration
-I actively looking to contribute to the open-source community and enjoy collaborating with others. Let's connect and work together to build innovative solutions!
+I am actively looking to contribute to the open-source community and enjoy collaborating with others. Let's connect and work together to build innovative solutions!
 
 ## Blogs 📝
 
