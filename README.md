@@ -1,6 +1,6 @@
 <a href="" target="_blank"><img src="https://github.com/raviraj-github/ContentManagement/blob/main/RAVI_RAJ_VISUAL_PROFILE_M.png?raw=true" /></a>
 ## 💫 About Me:
-I'm Ravi Raj, a seasoned Java Application Architect and Microservice Professional with a decade of experience in system designing, implementing, testing, and delivering complex back-end, microservice, and web applications using a variety of programming languages and technologies. Currently, I am associated with Ericsson as a Solution Architect.
+I'm Ravi Raj, a seasoned Java Application Architect and Microservice Professional with a decade of experience. Currently, I am associated with Ericsson as a Solution Architect. I'm actively looking for open source contributions to leverage my skills and expertise. Let's collaborate and drive innovation together!
 
 
 ## 🌐 Socials:
