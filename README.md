@@ -1,48 +1,15 @@
-# Hi there! 👋
-
+<a href="" target="_blank"><img src="https://github.com/raviraj-github/ContentManagement/blob/main/RAVI_RAJ_VISUAL_PROFILE_M.png?raw=true" /></a>
+## 💫 About Me:
 I'm Ravi Raj, a seasoned Java Application Architect and Microservice Professional with a decade of experience in system designing, implementing, testing, and delivering complex back-end, microservice, and web applications using a variety of programming languages and technologies. Currently, I am associated with Ericsson as a Solution Architect.
 
-## ✨ My Expertise
-- System Design
-- Implementation and Testing
-- Back-end Development
-- Microservices
-- Web Applications
 
-## 🚀 Technical Proficiencies 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-shankar-raj/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@learning.ravishankarraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/imRRaj_Official) 
 
-- Programming Languages: 💻 Java, GraalVM, Groovy, Spring, Hibernate, Maven
-- Microservice: 🌐 Spring Boot, Spring Cloud, Docker, Kubernetes
-- Databases: 🛢️ MySQL, PostgreSQL, MongoDB, Cassandra, H2-DB
-- Servers: 🖥️ Apache Tomcat, Jetty, Apache Karaf, JBoss
-- Operating Systems: 🖥️ Windows, Linux/Unix
-- Tools: 🔧 Eclipse, Git, JIRA, Jenkins, JUnit
-- Methodologies: 📚 OOP, Agile, Scrum, DDD, Pair-Programming
-- Cloud: ☁️ AWS, Docker, Kubernetes
-- Domains: 🌐 Telecom BSS, E-Commerce, HRMS
-- Interests: ⚡️ Blockchain, AI, ML, Cognitive Services, Metaverse
-
-
-## 🌱 Constantly Learning
-I am always eager to learn and explore new technologies to stay up-to-date with the latest trends in the industry. My passion lies in delivering high-quality software solutions that meet business requirements and exceed expectations.
-
-## 🤝 Open to Collaboration
-I am actively looking to contribute to the open-source community and enjoy collaborating with others. Let's connect and work together to build innovative solutions!
-
-## Blogs 📝
-
-Check out my latest blog posts:
-
-1. [Starting with GraalVM: Empowering Your Java Applications](https://www.linkedin.com/pulse/starting-graalvm-empowering-your-java-applications-ravi-shankar-raj/)
-2. [Ahead-of-Time Compilation vs. Just-in-Time Compilation in Java: A Comparative Analysis](https://www.linkedin.com/pulse/ahead-of-time-compilation-vs-just-in-time-java-comparative-raj/)
-3. [Harnessing the Power of GraalVM, Docker, and Kubernetes in Cloud-Native Development](https://www.linkedin.com/pulse/harnessing-power-graalvm-docker-kubernetes-cloud-native-raj)
-4. [Gitpod: Boosting Open Source Development with Effortless Cloud-Based Coding](https://medium.com/@learning.ravishankarraj/gitpod-boosting-open-source-development-with-effortless-cloud-based-coding-40e899964335)
-
-Stay tuned for more updates and articles!
-
-📫 Feel free to reach me via email at learning.ravishankarraj@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ravi-shankar-raj/).
-
-Looking forward to connecting with you!
-
-Best regards,  
-Ravi Raj
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+## 📊 GitHub Stats | 🔝 Top Contributed Repo:
+![](https://github-readme-stats.vercel.app/api?username=raviraj-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=raviraj-github&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=raviraj-github&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj-github&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
